@@ -1,5 +1,5 @@
 body {
-    background-color: #dceff2;
+    background-color: #ffe6ed;
   }
 
   .phone {
@@ -7,7 +7,7 @@ body {
         border-radius: 15px;
         height: 700px;
         width: 600px;
-        background-image: url("https://i.pinimg.com/originals/bd/a5/38/bda5380482600b3f9d6c6e764aec33dd.jpg");
+        background-image: url("https://img.artpal.com/626621/4-19-8-2-11-18-31m.jpg");
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -17,7 +17,7 @@ body {
       .box1 {
         width: 100px;
         height: 100px;
-        background: blue;
+        background-image: url("https://i.pinimg.com/474x/04/62/e0/0462e06e06f851f31924c667eb44ccc4.jpg");
         margin: 2px;
         border-radius: 10px
       }
