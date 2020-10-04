@@ -1,5 +1,6 @@
 body {
     background-color: #ffe6ed;
+    background-image: url("http://cdn.lowgif.com/full/3976758bcebff103-smashbox-vlada-petal-metal-collection-smashbox.gif");
   }
 
   .phone {
@@ -7,6 +8,7 @@ body {
         border-radius: 15px;
         height: 700px;
         width: 500px;
+        box-shadow: 10px 10px 8px #888888;
         background-image: url("https://img.artpal.com/626621/4-19-8-2-11-18-31m.jpg");
         display: flex;
         flex-wrap: wrap;
@@ -16,6 +18,10 @@ body {
 
       }
       
+      .p {
+        color: #40383a;
+    }
+  
       .box1 {
         width: 100px;
         height: 100px;
@@ -159,5 +165,8 @@ body {
         margin: 2px;
         border-radius: 10px
       } 
+      .p {
+          color: #40383a;
+      }
     
   }
