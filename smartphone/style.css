@@ -1,4 +1,52 @@
 body {
-    background-color: #F2E7DB;
-    background-image: url("https://thumbs.gfycat.com/OpulentSpiritedIberianlynx.webp")
+    background-color: #dceff2;
+  }
+
+  .phone {
+        border: 2px solid black;
+        border-radius: 15px;
+        height: 700px;
+        width: 600px;
+        background-image: url("https://i.pinimg.com/originals/bd/a5/38/bda5380482600b3f9d6c6e764aec33dd.jpg");
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .box1 {
+        width: 100px;
+        height: 100px;
+        background: blue;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box2 {
+        width: 100px;
+        height: 100px;
+        background: blue;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box3 {
+        width: 100px;
+        height: 100px;
+        background: blue;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box4 {
+        width: 100px;
+        height: 100px;
+        background: blue;
+        margin: 2px;
+        border-radius: 10px
+      }
+      .box5 {
+        width: 100px;
+        height: 100px;
+        background: blue;
+        margin: 2px;
+        border-radius: 10px
+      }
   }
