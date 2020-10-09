@@ -5,3 +5,34 @@ body {
 h1 {
     color: red;
 }
+
+section {
+    position: relative;
+  }
+  
+  section img {
+    position: absolute;
+  }
+  
+  .top {
+    animation-name: fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
+    animation-direction: alternate;
+  }
+  
+  @keyframes fade {
+    0% {
+      opacity: 1;
+    }
+    25% {
+      opacity: 1;
+    }
+    75% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
