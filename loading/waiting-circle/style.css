@@ -27,14 +27,14 @@ img {
   
   @keyframes spin-n-move {
     0% {
-      transform: translate(0px, 40px) rotateZ(0deg);
+      transform: translate(-60px, 40px) rotateZ(0deg);
     }
     10% {
       transform: translate(60px, 20px) rotateZ(0deg);
     }
     50% {
-      transform: translate(20px, 10px) rotateZ(0deg);
+      transform: translate(10px, -80px) rotateZ(0deg);
     }
-    100% {
-      transform: translate(80px,-30px) rotateZ(0deg);
+    70% {
+      transform: translate(-180px, 60px) rotateZ(0deg);
     }
