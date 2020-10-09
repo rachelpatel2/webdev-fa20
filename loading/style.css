@@ -1,3 +1,16 @@
+body {
+    background-color: #ded1f0;
+    background-image: url(https://i.gifer.com/3sjl.gif);
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    background: white;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
 h1 {
-    color: green;
+    color: #826aa3;
 }
