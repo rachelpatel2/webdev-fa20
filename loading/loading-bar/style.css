@@ -16,7 +16,11 @@ h1 {
 }
 
 h3 {
-color: #d3b3e6;
+color: #826aa3;
+}
+
+h5 { 
+    color:#826aa3;
 }
 
 .umbreon {
@@ -35,7 +39,4 @@ color: #d3b3e6;
     to {
       transform: translateX(400px);
     }
-
-  p { 
-    color:#eedbff;
- }
+  
