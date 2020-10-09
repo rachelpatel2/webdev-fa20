@@ -11,6 +11,11 @@ body {
     margin: 50px auto;
 }
 
+img {
+    width: 43%;
+    height: auto;
+  }
+
 h1 {
     color: #826aa3;
 }
