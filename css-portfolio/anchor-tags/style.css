@@ -1,0 +1,13 @@
+body {
+    background-color:#eddcd3;
+    background-image: url(https://i.gifer.com/3sjl.gif);
+    color: #7a6a61
+}
+
+img {
+    max-width: 400px;
+}
+
+p {
+    font-size: 25px;
+}
