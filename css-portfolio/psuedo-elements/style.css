@@ -4,6 +4,16 @@ body {
     color: #7a6a61
 }
 
-p::first-line {
-    color: rgb(70, 33, 23);
-    text-transform: uppercase;
+p::before { 
+    background-color: #e6ebe4;
+    content: "this game takes place in classical japan";
+    color: #3b3d3a;
+  }
+  
+  p::after { 
+    background-color: #e6f2f2;
+    content: "it's super pretty and the graphics are like traditional paintings, which make it stand out. i got into the game after coming across tons of fanart for it in 2011, and i'm so glad i did!";
+    color: #ab84ab;
+    border-color: #450645;
+  border-style: dotted;
+  }
