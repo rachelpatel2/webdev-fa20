@@ -1,0 +1,27 @@
+body {
+    background-color:#eddcd3;
+    background-image: url(https://i.gifer.com/3sjl.gif);
+    color: #7a6a61
+}
+
+.wrapper {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .box {
+    width: 200px;
+    height: 200px;
+    animation-iteration-count: infinite;
+    background: rgb(211, 173, 184);
+    border: 6px dotted #c6bdff;
+    transition: transform 6s cubic-bezier(.97,-0.65,.45,1.05),
+                background 8s cubic-bezier(.97,-0.65,.45,1.05);
+  }
+  
+  .box:hover {
+    transform: rotateZ(360deg);
+    background: #d3e1ed;
+  }
