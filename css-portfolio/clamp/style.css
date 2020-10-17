@@ -1,0 +1,9 @@
+body {
+    background-color:#eddcd3;
+    background-image: url(https://i.gifer.com/3sjl.gif);
+    color: #7a6a61
+}
+
+p {
+    font-size: clamp(1rem, 2.5vw, 2rem); 
+}
