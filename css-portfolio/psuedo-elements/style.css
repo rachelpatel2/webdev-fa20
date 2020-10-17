@@ -1,0 +1,9 @@
+body {
+    background-color:#eddcd3;
+    background-image: url(https://i.gifer.com/3sjl.gif);
+    color: #7a6a61
+}
+
+p::first-line {
+    color: blue;
+    text-transform: uppercase;
