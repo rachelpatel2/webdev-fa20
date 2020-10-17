@@ -5,5 +5,5 @@ body {
 }
 
 p::first-line {
-    color: blue;
+    color: rgb(70, 33, 23);
     text-transform: uppercase;
