@@ -7,6 +7,20 @@ img {
     height: 200px
 }
 
+.button {
+  background: rgb(137, 165, 223);
+  font-size: clamp(12px, 6vmin, 24px);
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  padding: 1.5em;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -80px;
+  
+}
+
 .modal {
     display: none;
     position: fixed; 
